@@ -5,13 +5,11 @@
 *.log
 
 # Package Files
-*.jar
+# *.jar
 *.zip
-*.tar.gz
+# *.tar.gz
 *.rar
 
-# Generated Sources
-target
 
 # IDE Files
 .idea
